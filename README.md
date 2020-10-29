@@ -11,7 +11,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/civilenginner/Proffy?style=flat-square">
   <img alt="GitHub" src="https://img.shields.io/github/license/civilenginner/Proffy?style=flat-square"> 
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
- <a href="https://insomnia.rest/run/?label=Proffy&uri=https%3A%2F%2Fgithub.com%2Fcivilenginner%2Fnew-test%2Fblob%2Fmaster%2F.github%2FInsomnia_proffy.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+<a href="https://insomnia.rest/run/?label=&uri=https%3A%2F%2Fgithub.com%2Fcivilenginner%2FProffy%2Fblob%2Fmaster%2F.github%2FInsomnia_proffy.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 <p align="center">
   <a href="#bookmark-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
