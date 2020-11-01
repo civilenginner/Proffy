@@ -65,7 +65,7 @@ This application was made during the Next **Level Week #2**, project made by [Ro
 1. Clone the repository:
 
 ```sh
-  $ git clone https://github.com/civilenginner/proffy.git
+  $ git clone https://github.com/civilenginner/Proffy.git
 ```
 
 2. Running the Application:
@@ -74,26 +74,26 @@ This application was made during the Next **Level Week #2**, project made by [Ro
   # API
   $ cd server
   # Installing the project dependencies.
-  $ yarn # ou npm install
+  $ yarn or npm install
   # Setting up the database and creating the tables.
   $ yarn knex:migrate # ou npm run knex:migrate
 
   # Start the API
-  $ yarn start # or npm start
+  $ yarn start or npm start
 
   # Web application
   $ cd web
   # Installing the project dependencies.
-  $ yarn # ou npm install
+  $ yarn or npm install
   # Launch the web application
-  $ yarn start # ou npm start
+  $ yarn start or npm start
 
   # Mobile application
   $ cd mobile
   # Installing the project dependencies.
-  $ yarn # or npm install
+  $ yarn or npm install
   # Launch the mobile application
-  $ yarn start # ou npm start
+  $ yarn start or npm start
 ```
 
 
